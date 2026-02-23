@@ -1,2 +1,6 @@
 # python-toolbox
-Datacamp python toolbox course
+
+A Datacamp python toolbox course
+
+1. Iterators
+2. List comprehensions and generators
